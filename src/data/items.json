@@ -3,7 +3,7 @@
     "id": 1,
     "name":"Book",
     "price": 10.99,
-    "imgUrl": "imgs/Book.webp"
+    "imgUrl": "imgs/Book.jpg"
   },
   {
     "id": 2,
